@@ -1,1 +1,9 @@
-theme = "ananke"
+title = "Rameez Ahmad"
+theme = "PaperMod"
+languageCode = "en-us"
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
